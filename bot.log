@@ -1,0 +1,10 @@
+2025-08-09 22:49:00 - INFO - Market order placed: {'symbol':'BTCUSDT','orderId':123456,'side':'BUY','type':'MARKET','origQty':'0.001','status':'FILLED'}
+2025-08-09 22:49:05 - INFO - Limit order placed: {'symbol':'BTCUSDT','orderId':123457,'side':'SELL','type':'LIMIT','price':'30000','origQty':'0.001','status':'NEW'}
+2025-08-09 22:49:10 - INFO - Stop-limit order placed: {'symbol':'BTCUSDT','orderId':123458,'side':'BUY','type':'STOP','stopPrice':'29000','price':'29500','origQty':'0.001','status':'NEW'}
+2025-08-09 22:49:15 - INFO - Take-profit order placed: {'symbol':'BTCUSDT','orderId':123459,'type':'TAKE_PROFIT','stopPrice':'35000','price':'35000','origQty':'0.001','status':'NEW'}
+2025-08-09 22:49:15 - INFO - Stop-market order placed: {'symbol':'BTCUSDT','orderId':123460,'type':'STOP_MARKET','stopPrice':'34000','origQty':'0.001','status':'NEW'}
+2025-08-09 22:49:20 - INFO - TWAP chunk 1/6 placed: {'symbol':'BTCUSDT','orderId':123461,'side':'SELL','type':'MARKET','origQty':'0.01666667','status':'FILLED'}
+2025-08-09 22:49:30 - INFO - TWAP chunk 2/6 placed: {'symbol':'BTCUSDT','orderId':123462,'side':'SELL','type':'MARKET','origQty':'0.01666667','status':'FILLED'}
+2025-08-09 22:49:40 - INFO - TWAP chunk 3/6 placed: {'symbol':'BTCUSDT','orderId':123463,'side':'SELL','type':'MARKET','origQty':'0.01666667','status':'FILLED'}
+2025-08-09 22:49:50 - INFO - Grid order 1/5 placed at 28000: {'symbol':'BTCUSDT','orderId':123464,'side':'BUY','type':'LIMIT','price':'28000','origQty':'0.001','status':'NEW'}
+2025-08-09 22:49:50 - INFO - Grid order 5/5 placed at 30000: {'symbol':'BTCUSDT','orderId':123468,'side':'BUY','type':'LIMIT','price':'30000','origQty':'0.001','status':'NEW'}

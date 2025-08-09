@@ -1,9 +1,8 @@
-#!/usr/bin/env python3
-"""
-Limit order CLI for Binance USDT-M Futures.
-"""
-
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env
+load_dotenv()
 import argparse
 import logging
 from binance.client import Client
